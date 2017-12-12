@@ -1,0 +1,70 @@
+body {
+ font-family: Arial;
+ background-color: #f5f5f5;
+}
+
+.col-sm-3 {
+ font-weight: bold;
+}
+
+.btn {
+  background-color: #dae6f1;
+  color: steelblue;
+  width: 150px;
+  font-size: 12pt;
+}
+
+.btn:hover  {
+   background-color: steelblue;
+   color: white;
+   width: 150px;
+}
+
+.btn:focus {
+  background-color: #91b6d4;
+  color: white;
+  width: 150px;
+  font-size: 12pt;
+}
+
+.navbar-default {
+    background-color: steelblue;
+}
+
+.navbar-default  .navbar-brand {
+    background-color: steelblue;
+    color: white;
+}
+
+.navbar-default  .navbar-brand:hover {
+    background-color: white;
+    color: steelblue;
+}
+
+.navbar-default .navbar-nav >  .active > a {
+   background-color: steelblue;
+   color: white;
+}
+.navbar-default .navbar-nav > .active > a:hover{
+    background-color: white;
+    color: steelblue;
+}
+.navbar-default .navbar-nav > .active > a:focus {
+    
+    color: steelblue;
+}
+
+.navbar-default .navbar-nav >  li > a {
+   background-color: steelblue;
+   color: white;
+}
+.navbar-default .navbar-nav > li > a:hover{
+    background-color: white;
+    color: steelblue;
+}
+.navbar-default .navbar-nav > li > a:focus {
+    
+    color: steelblue;
+}
+
+
